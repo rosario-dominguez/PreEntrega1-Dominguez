@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "titulo": "Nintendo Switch Neon",
+        "descripcion": "Consola Nintendo Switch Edición Neón Blue & Red ¡Comienza una nueva vida en una isla desierta con este pack especial de Nintendo Switch!",
+        "categoria": "Consolas",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_803086-MLA47920649105_102021-O.webp",
+        "precio": 200000
+    },
+    {
+        "id": 2,
+        "titulo": "PlayStation 5",
+        "descripcion": "Velocidad ultrarrpida: aprovecha la potencia de una CPU, GPU y SSD personalizadas con E/S integradas que reescriben las reglas .",
+        "categoria": "Consolas",
+        "imagen": "https://arsonyb2c.vtexassets.com/arquivos/ids/361930/711719555360_003.jpg?v=1767059103",
+        "precio": 300000
+    },
+    {
+        "id": 3,
+        "titulo": "Joystick PS5",
+        "descripcion": "Descubre una experiencia de juego más profunda y envolvente* que hace que la acción cobre vida en las palmas de tus manos. El control inalámbrico DualSense™ Midnight Black ofrece retroalimentación háptica inmersiva**, gatillos adaptativos dinámicos** y un micrófono incorporado, todo integrado en un diseño icónico y cómodo.",
+        "categoria": "Accesorios",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_656422-MLA49850982436_052022-O.webp",
+        "precio": 45000
+    },
+    {
+        "id": 4,
+        "titulo": "Joystick inalámbrico Nintendo Switch Joy-Con",
+        "descripcion": "Este mando combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento.",
+        "categoria": "Accesorios",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_713701-MLA46733165828_072021-O.webp",
+        "precio": 45000
+    },
+    {
+        "id": 5,
+        "titulo": "Hogwarts Legacy  Standard Edition Warner Bros. PS5 Físico",
+        "descripcion": "Con este juego de Hogwarts vas a disfrutar de horas de diversión y de nuevos desafíos",
+        "categoria": "Juegos",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_797134-MLA54009229472_022023-O.webp",
+        "precio": 35000
+    },
+    {
+        "id": 6,
+        "titulo": "The Legend of Zelda: Tears of the Kingdom Standard Edition Nintendo Switch Físico",
+        "descripcion": "Los juegos de la franquicia The Legend of Zelda marcaron un antes y después en el género de aventura. Convertite en Link para vencer a los villanos que hicieron de un pacífico reino un lugar inmerso en las tinieblas.",
+        "categoria": "Juegos",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_850327-MLA54712581525_032023-O.webp",
+        "precio": 35000
+    }
+]
